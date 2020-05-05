@@ -1,4 +1,4 @@
-# console-java-simple
+# JavaScript (and jQuery) in 7 Days
 
 A simple java "Hello World!" application, buildable with both maven and gradle. Useful for testing Eclipse Che Java workspaces.
 
